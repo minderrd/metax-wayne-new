@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-metaxwaynenew-dev-212312-authRole",
+      "UnauthRoleArn": "arn:aws:iam::249238915669:role/amplify-metaxwaynenew-dev-212312-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::249238915669:role/amplify-metaxwaynenew-dev-212312-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-metaxwaynenew-dev-212312-deployment",
+      "UnauthRoleName": "amplify-metaxwaynenew-dev-212312-unauthRole",
+      "StackName": "amplify-metaxwaynenew-dev-212312",
+      "StackId": "arn:aws:cloudformation:us-west-2:249238915669:stack/amplify-metaxwaynenew-dev-212312/516adf30-6c98-11ec-9a06-0a09f2f51a8d",
+      "AmplifyAppId": "daxy1rpfp2o9q"
+    },
+    "categories": {
+      "auth": {
+        "metaxwaynenew6d88d58a": {}
+      }
+    }
+  }
+}
